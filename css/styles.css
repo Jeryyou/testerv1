@@ -1,0 +1,153 @@
+p{
+    color: black;
+    font-family: tahoma;
+}
+
+p>span{
+    color: rgb(0, 255, 55)
+    
+}
+
+p>span{
+    font-family: fantasy;
+}
+
+    b{
+        background-color: ;
+        color: green;
+    }
+
+h3{
+color: blue;
+}
+
+*{
+    font-family: Arial;
+}
+
+.TULIS{
+    font-family: serif;
+    font-size: 22px;
+}
+
+div{
+    border-style:
+}
+.box1{
+    height: 200px;
+    width: 300px;
+    background-color:;
+    color: black;
+}
+
+body{
+    background-color: white ;
+}
+.halaman{
+    color: black;
+}
+
+
+.header{
+    background-color: cornflowerblue;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    margin: 10px;
+}
+.header-title{
+    color: white;
+    font-size: 0,8em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.container{
+    background-color: cornflowerblue;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    margin: 10px;
+}
+.header-1{
+    color: white;
+    font-size: 0,8em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.test{
+    background-color: cornflowerblue;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    margin: 10px;
+}
+
+.subejek{
+    color: white;
+    font-size: 0,8em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.box-credit{
+    font-size: 11px;
+    justify-content: center;
+    display: flex;
+    border: 1px orange;
+    
+}
+.penulis{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    padding: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+}
+
+
+tr:hover{
+    background-color: azure;
+}
+.nama{
+    color: cornflowerblue;
+    font-weight: bold;
+    font-family: tahoma;
+}
+.tahun{
+    color: #aabbea;
+    font-weight: bold;
+    font-family: tahoma;
+    font-style: italic;
+}
+td>img{
+    width: 100px;
+}
+.table{
+    border-spacing: 5px;
+}
+.table th{
+    padding: 10px;
+    text-align:left;
+}
+.sololeveling{
+    background-color: aquamarine;
+}
+.jujutsu{
+    background-color:azure;
+}
+.haikyuu{
+    background-color: blueviolet;
+}
+.sololeveling td{
+    padding: 20px;
+}
+.jujutsu td{
+    padding: 20px;
+}
+.haikyuu td{
+    padding: 20px;
+}
+.daftarbuku{
+    background-color: coral;
+}
